@@ -1,0 +1,4 @@
+MDR;MP;7120;Bank Mandiri Online		;Offline
+MDR;MP;8066;Bank Mandiri Online		;Offline
+MDR;MP;8081;Bank Mandiri Online		;Offline
+BNI;MP;2044;Bank Negara Indonesia	;Offline
